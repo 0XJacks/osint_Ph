@@ -9,7 +9,7 @@
 sudo apt install git
 pip install BeautifulSoup
 pip install urllib.parse
-git clone https://github.com/0XJacks/osint_PN.git
+git clone https://github.com/0XJacks/osint_Ph.git
 python3 InfoPhone.py
 ```
 تثبيت على Termux لمستخدمين الهاتف 📱
@@ -18,7 +18,7 @@ apt install git
 apt install python3
 pip install BeautifulSoup
 pip install urllib.parse
-git clone https://github.com/0XJacks/osint_PN.git
+git clone https://github.com/0XJacks/osint_Ph.git
 python3 InfoPhone.py
 ```
 وبالتوفيق ♥️
